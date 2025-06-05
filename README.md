@@ -5,7 +5,7 @@ This repository contains some of my certificates and related resources from cour
 ## Certificates
 
 - **Python with Django – Coderhouse**  
-  [View certificate](https://github.com/dzywav/certificates/blob/main/certificado-python.png)
+  [View certificate](https://github.com/dzywav/certificates/blob/main/python-certificate.png)
 
 *(This course covered Python from beginner to advanced level, including libraries like pandas and numpy, and a complete Django project with authentication, CRUD operations, and database integration.)*
 
