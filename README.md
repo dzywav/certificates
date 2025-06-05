@@ -5,7 +5,7 @@ This repository contains some of my certificates and related resources from cour
 ## Certificates
 
 - **Python with Django – Coderhouse**  
-  [View certificate](https://raw.githubusercontent.com/your-username/certificados/main/certificado-python-django.jpg)
+  [View certificate](https://github.com/dzywav/certificates/blob/main/certificado-python.png)
 
 *(This course covered Python from beginner to advanced level, including libraries like pandas and numpy, and a complete Django project with authentication, CRUD operations, and database integration.)*
 
@@ -13,5 +13,5 @@ This repository contains some of my certificates and related resources from cour
 
 I'm a final-year Computer Science student at BUAP, passionate about web development, automation, and backend solutions.
 
-📧 Contact: daniel.rosado@alumno.buap.mx
+📧 Contact: dzywav@outlook.com
 🌐 GitHub: [@dzywav](https://github.com/dzywav)
